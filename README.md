@@ -7,6 +7,6 @@
 * Alpha state
 * Uncompleted
 
-> Go ahead and help to all the community. Contribuite!
+> Go ahead and help to all the community. Contribute!
 
 ## Node JS scripting.
